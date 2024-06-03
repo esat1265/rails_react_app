@@ -1,0 +1,93 @@
+=> 
+[[32m#<Post:0x00007fcfce78aff0[0m
+  id: [34m[1m20[0m,
+  title: [31m[1m"[0m[31mDebitis eum eius.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mUt in labore. Optio voluptas ut. Officiis atque possimus.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.677000000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.677000000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf7c030[0m
+  id: [34m[1m19[0m,
+  title:
+   [31m[1m"[0m[31mNecessitatibus reprehenderit architecto.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mNihil consequuntur ratione. Voluptatem quidem repudiandae. Atque eligendi maiores.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.673644000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.673644000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf829f8[0m
+  id: [34m[1m18[0m,
+  title: [31m[1m"[0m[31mOmnis blanditiis minus.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mUt repudiandae labore. Est est aut. Tempora ut mollitia.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.670782000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.670782000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf814e0[0m
+  id: [34m[1m17[0m,
+  title: [31m[1m"[0m[31mQui dolor aut.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mVitae vero dolores. Est velit temporibus. Laudantium possimus debitis.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.668042000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.668042000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf80248[0m
+  id: [34m[1m16[0m,
+  title: [31m[1m"[0m[31mAliquam sint assumenda.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mDeserunt ab ut. Consequuntur consequatur distinctio. Ut itaque voluptatem.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.665216000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.665216000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf87f98[0m
+  id: [34m[1m15[0m,
+  title: [31m[1m"[0m[31mEarum porro ea.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mVoluptatum perferendis doloribus. Laborum nisi quis. Quos temporibus explicabo.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.662241000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.662241000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf879f8[0m
+  id: [34m[1m14[0m,
+  title: [31m[1m"[0m[31mRerum non asperiores.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mAccusamus ipsum quo. Aperiam optio et. Sunt aut veniam.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.659416000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.659416000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf872f0[0m
+  id: [34m[1m13[0m,
+  title: [31m[1m"[0m[31mEum provident impedit.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mOmnis excepturi minus. Minima inventore iste. Harum porro at.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.656529000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.656529000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf86be8[0m
+  id: [34m[1m12[0m,
+  title: [31m[1m"[0m[31mCulpa fuga ut.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mDicta itaque ut. Quas temporibus magnam. Numquam iusto similique.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.653600000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.653600000 UTC +00:00[32m>[0m,
+ [32m#<Post:0x00007fcfccf85ec8[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mEx soluta praesentium.[0m[31m[1m"[0m,
+  body:
+   [31m[1m"[0m[31mOmnis et velit. Ex porro nihil. Aut quis est.[0m[31m[1m"[0m,
+  created_at:
+   Mon, 03 Jun 2024 10:05:05.650845000 UTC +00:00,
+  updated_at:
+   Mon, 03 Jun 2024 10:05:05.650845000 UTC +00:00[32m>[0m,
+ [31m[1m"[0m[31m...[0m[31m[1m"[0m]
